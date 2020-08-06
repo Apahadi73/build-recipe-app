@@ -1,0 +1,7 @@
+.form{
+    min-height: 1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
